@@ -1,0 +1,13 @@
+{
+  "name": "statusbar",
+  "version": "1.0.0",
+  "description": "status & process bar for markdown",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "onbing",
+  "dependencies": {
+    "express": "~4.13.3",
+    "nodemon": "~1.8.1"
+  }
+}
